@@ -25,7 +25,7 @@ Each course included a mix of theoretical foundations, practical projects, and r
 
 I'm a JavaScript developer who transitioned from managing global infrastructure projects for Microsoft, Google, and Meta, to building web applications with modern technologies like **React**, **Angular**, **TypeScript**, **Node.js**, **Express** and **MongoDB**.
 
-I’m passionate about writing clean code, continuously learning and building practical solutions with modern web technologies."
+I’m passionate about writing clean code, continuously learning and building practical solutions with modern web technologies.
 
 ## 🔗 Connect with Me
 
